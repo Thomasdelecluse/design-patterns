@@ -1,8 +1,8 @@
 # Introduction
-Ce dépôt a été créé dans le but de fournir des exemples concrets et facilement compréhensibles de divers design patterns. Chaque design pattern est implémenté dans un répertoire séparé avec des exemples de code et des instructions sur la façon de les utiliser.
+Ce dépôt a été créé dans le but de fournir des exemples concrets et facilement compréhensibles de divers design patterns. Chaque design pattern est implémenté dans un répertoire séparé avec des exemples de code et des instructions sur la façon de les utiliser. 😄 
 
 # Utilisation
-Chaque design pattern se trouve dans un répertoire séparé avec son propre fichier main pour lancer l'exemple de code.
+Chaque design pattern se trouve dans un répertoire séparé avec son propre fichier main ▶️ pour lancer l'exemple de code. 
 
 ## Observer
 Le pattern Observer permet de définir une relation de dépendance entre objets de sorte que lorsqu'un objet change d'état, tous ses dépendants en sont informés et mis à jour automatiquement.
