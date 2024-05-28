@@ -27,3 +27,9 @@ Le pattern Strategy permet de définir une famille d'algorithmes, de les encapsu
 
 Répertoire : strategy
 Description : Exemple démontrant comment des algorithmes interchangeables peuvent être sélectionnés et utilisés dynamiquement.
+
+## Adapter
+Le pattern Adapter permet de faire en sorte que des classes incompatibles travaillent ensemble. Il convertit l'interface d'une classe en une interface attendue par les clients. Ce pattern est particulièrement utile lorsqu'on ne peut pas modifier directement une classe mais qu'on souhaite néanmoins adapter son comportement.
+
+Répertoire : adapter
+Description : Exemple montrant comment utiliser un adaptateur pour permettre à des interfaces incompatibles de coopérer, particulièrement utile lorsqu'on ne peut pas modifier la classe d'origine mais qu'on souhaite tout de même en changer le comportement.
