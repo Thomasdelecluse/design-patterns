@@ -14,6 +14,7 @@ public class Main {
 
         item[0].pomme = "test";
 
+
         // Avec l'adapter on modifie un Item sans toucher a la classe Item ( get and set en plus)
         IItem[] itemAdapter = new IItem[6];
         itemAdapter[0] = new ItemAdapter("golden","roche");
